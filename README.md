@@ -6,7 +6,7 @@
   <li>Edit script</li>
   <li>Install Nginx webserver</li>
   <li>Create database and tables</li>
-  <li>Identify studnent ID</li>
+  <li>Identify student ID</li>
   <li>Add students to the database</li>
   <li>Create cron entry</li>
 </ol>
